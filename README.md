@@ -21,9 +21,15 @@ conhecimento adquiridos em sala de aula.</p>
   ### Status do Projeto até agora:</br>
   
 - [x] CRUD com dados do Jogador
+- [x] Modelo Jogador
 - [x] CRUD com dados do Inimigo
+- [x] Modelo Inimigo
 - [ ] CRUD com dados do inventario do jogador
+- [ ] Modelo Inventario
+- [ ] Modelo de Batalhas
+- [ ] Função que executa a batalha
 - [x] backend em java
 - [ ] Front-end (aguardando aulas)
+- [ ] Requisições ao banco
 - [ ] Formato do banco de dados (ainda será definido pelo professor)
 </br>
