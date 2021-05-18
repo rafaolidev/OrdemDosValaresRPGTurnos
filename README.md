@@ -5,7 +5,7 @@
 <p>O projeto tem com intuito validar conhecimentos na linguage JAVA, ultilizando</br
 conhecimento adquiridos em sala de aula.</p>
 </br>
-##Nosso projeto tem como membros:</br>
+## Nosso projeto tem como membros:</br>
 [Rafael Aranha](https://github.com/rafaolidev)</br>
 [Rodrigo](https://github.com/rodrigosouzalopes94)</br>
 [Amanda]()</br>
