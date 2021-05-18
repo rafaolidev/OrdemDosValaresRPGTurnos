@@ -6,7 +6,7 @@
 conhecimento adquiridos em sala de aula.</p>
 </br>
 ##Nosso projeto tem como membros:</br>
-[Rafael Aranha](https://blog.da2k.com.br)</br>
+[Rafael Aranha](https://github.com/rafaolidev)</br>
 [Rodrigo](https://github.com/rodrigosouzalopes94)</br>
 [Amanda]()</br>
 <p>
