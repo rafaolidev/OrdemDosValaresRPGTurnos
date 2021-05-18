@@ -1,7 +1,7 @@
 # OrdemDosValaresRPGTurnos
-###Projeto do primeiro semestre de 2021</br>
+### Projeto do primeiro semestre de 2021</br>
 
-##Proposta do Projeto.</br>
+## Proposta do Projeto.</br>
 <p>O projeto tem com intuito validar conhecimentos na linguage JAVA, ultilizando</br
 conhecimento adquiridos em sala de aula.</p>
 </br>
