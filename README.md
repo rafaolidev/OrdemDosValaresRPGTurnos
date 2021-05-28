@@ -8,7 +8,7 @@ conhecimento adquiridos em sala de aula.</p>
 ## Nosso projeto tem como membros:</br>
 [Rafael Aranha](https://github.com/rafaolidev)</br>
 [Rodrigo](https://github.com/rodrigosouzalopes94)</br>
-[Amanda]()</br>
+[Amanda](https://github.com/amanda-star)</br>
 <p>
   Etamos Construindo um jogo de RPG em turnos</br>
   utilizando o design patern MVC, java puro para back end, </br>
